@@ -8,4 +8,18 @@ Again downstream Changes
 again upstream changes 
 >>>>>>> 8eba4904be32d75cd4fb4c807a4caa30cc92cb67
 
+<<<<<<< HEAD
 again3 upstream Changes 
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+again3 Upstream Changes 
+>>>>>>> d5b5fa48cc9b017621c455e1641d561385830e30
+=======
+
+again4 change
+>>>>>>> Stashed changes
+=======
+
+again4 change
+>>>>>>> Stashed changes
